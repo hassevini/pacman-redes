@@ -39,8 +39,6 @@
         <li><a href="#-comandos-úteis">Comandos Úteis</a></li>
       </ul>
     </li>
-    <li><a href="#-dificuldades-e-aprendizados">Dificuldades e Aprendizados</a></li>
-    <li><a href="#-licença">Licença</a></li>
     <li><a href="#-contato">Contato</a></li>
     <li><a href="#-agradecimentos">Agradecimentos</a></li>
   </ol>

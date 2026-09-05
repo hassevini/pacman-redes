@@ -48,8 +48,6 @@
 
 ## 📖 Sobre o Projeto
 
-![imagem exemplo do jogo em execução](assets/screenshots/running.png)
-
 **Pacman-Redes** é um jogo estilo Pac-Man implementado no modelo **cliente-servidor**, desenvolvido em linguagem C para a disciplina **Redes de Computadores 1 (CI1058)** da **Universidade Federal do Paraná (UFPR)**.
 
 A comunicação entre as duas máquinas é feita via **cabo Ethernet**, usando **raw sockets** e um protocolo inspirado no **Kermit** (simplificado e adaptado às necessidades do trabalho). O servidor concentra toda a lógica do jogo (posições, colisões, pastilhas, fantasmas), enquanto o cliente é responsável exclusivamente pela interface interativa com o jogador, renderizada via **ncurses**.

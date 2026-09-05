@@ -11,9 +11,6 @@
   <p align="center">
     Jogo estilo Pac-Man no modelo cliente-servidor sobre Ethernet — trabalho final da disciplina de Redes de Computadores 1 (CI1058) na UFPR.
     <br />
-    <a href="https://github.com/GiuTP/PacketMan/issues/new?labels=bug">Reportar Bug</a>
-    &middot;
-    <a href="https://github.com/GiuTP/PacketMan/issues/new?labels=enhancement">Sugerir Melhoria</a>
   </p>
 </div>
 

@@ -278,9 +278,9 @@ Link do projeto: [https://github.com/GiuTP/PacketMan](https://github.com/GiuTP/P
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[stars-shield]: https://img.shields.io/github/stars/GiuTP/PacketMan.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/hassevini/Pacman-Redes.svg?style=for-the-badge
 [stars-url]: https://github.com/hassevini/Pacman-Redes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GiuTP/PacketMan.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/hassevini/Pacman-Redes.svg?style=for-the-badge
 [issues-url]: https://github.com/hassevini/Pacman-Redes/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hassevini

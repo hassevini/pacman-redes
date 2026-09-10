@@ -265,7 +265,7 @@ hassevini — [github.com/hassevini](https://github.com/hassevini)
 
 E-mail - hassevini@gmail.com
 
-Link do projeto: [https://github.com/GiuTP/PacketMan](https://github.com/GiuTP/PacketMan)
+Link do projeto: [https://github.com/GiuTP/PacketMan](https://github.com/hassevini/Pacman-Redes)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
